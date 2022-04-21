@@ -1,5 +1,7 @@
 ---
 name: Feature request
+about: Add new funtionality to RDMO
+labels: 'type: feature request'
 
 ---
 
